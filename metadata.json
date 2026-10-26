@@ -1,0 +1,6 @@
+{
+  "name": "FRACTERRA: Proof Bridge",
+  "description": "Media Pembelajaran Interaktif Matematika Kelas IV SD untuk membuktikan pecahan senilai 1/2 = 2/4 melalui petualangan jembatan matematika.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
